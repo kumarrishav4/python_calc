@@ -1,7 +1,7 @@
 # python_calc
 
 python program with a gui interface for 
-adding
-subdtracting
-multiplying
-dividing
+/n adding
+/n subdtracting
+/n multiplying
+/n dividing
